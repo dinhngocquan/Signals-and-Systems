@@ -1,4 +1,4 @@
-# Signals and Systems Lab Report
+# Signals and Systems
 ## Overview
 This repository contains MATLAB code and documentation for the Signals and Systems lab exercises, covering continuous signals, even/odd decomposition, periodic signals, energy/power calculations, signal transformations, musical note generation, Fourier series, and signal filtering.
 Contents
